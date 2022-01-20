@@ -6,6 +6,7 @@ I am Ragesh,I am currently pursuing my B.Tech degree in Computer Science from Ve
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranaygupta.aec@gmail.com)](mailto:rag3shx@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Rageshx)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rageshx/)](https://www.linkedin.com/in/rageshx/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ragesh.x/)](https://instagram.com/ragesh.x)
 
 # Languages
 
