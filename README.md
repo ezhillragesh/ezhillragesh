@@ -53,7 +53,7 @@ I am Ragesh,I am currently pursuing my B.Tech degree in Computer Science from Ve
 
 ![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 
-## Random Joke Generator
+## Random Joke 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
