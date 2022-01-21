@@ -57,4 +57,3 @@ I am Ragesh,I am currently pursuing my B.Tech degree in Computer Science from Ve
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-[![askmeanything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg&link=mailto:rag3shx@gmail.com)](mailto:rag3shx@gmail.com)
