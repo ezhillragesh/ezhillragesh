@@ -42,11 +42,12 @@ I am Ragesh,I am currently pursuing my B.Tech degree in Computer Science from Ve
 <tr>
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=rageshx&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rageshx&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+
 </td>
 </tr>
 </table>
-<p align="center">
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rageshx&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rageshx&theme=tokyonight" />
 </p>
 
