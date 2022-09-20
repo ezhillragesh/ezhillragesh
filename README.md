@@ -2,19 +2,22 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rageshx&label=Profile%20views&color=0e75b6&style=flat" alt="rageshx" /> </p>
 
 
-I am Ragesh,I am currently pursuing my B.Tech degree in Computer Science from Vellore Institute of Technology. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am a lifelong learner who does stop immersing myself with the things that inspires me. I hereby proclaim myself as a technology enthusiast. I have come to know that "determination betrays no one," and this has helped me to keep on progressing day by day. As I am starting to realize what is best for me, I believe that in no time, I will be able to achieve it and make it to reality. Find out more about me & feel free to connect with me here:
 
 <a href="https://github.com/rageshx/"><img src="https://visitor-badge.laobi.icu/badge?page_id=rageshx/rageshx.github.io" alt="Number of Visitors"></a>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rageshx)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rageshx/)](https://www.linkedin.com/in/rageshx/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/ragesh.x/)](https://instagram.com/ragesh.x)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discordapp.com/rageshx/#9945/)
+
 
 
 [![Ragesh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rageshx&theme=xcode)](https://github.com/rageshx)
 
+## Coding Profiles
 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/rag3shx/)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/rag3sh)
 
 # Languages
 
@@ -23,17 +26,6 @@ I am Ragesh,I am currently pursuing my B.Tech degree in Computer Science from Ve
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-# Skills 
-
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
-![photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
-
-
-
 
 
 
@@ -54,7 +46,7 @@ I am Ragesh,I am currently pursuing my B.Tech degree in Computer Science from Ve
 
 # Check out my Spotify
 
-![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+[![](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/312r2qrhiam3zaobrxqymbt6vlxa)
 
 ## Random Joke 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
