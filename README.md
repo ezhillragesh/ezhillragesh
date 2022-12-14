@@ -15,7 +15,7 @@ Hi there! My name is Ragesh and I am currently a college student studying comput
 
 
 
-[![Ragesh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rageshx&theme=xcode)](https://github.com/rageshx)
+
 
 ## Coding Profiles
 
