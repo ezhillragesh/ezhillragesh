@@ -43,8 +43,6 @@ Hi there! My name is Ragesh and I am currently a college student studying comput
 </td>
 </tr>
 </table>
-
-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rageshx&theme=tokyonight" />
 </center>
 </p>
