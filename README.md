@@ -45,7 +45,6 @@ Hi there! My name is Ragesh and I am currently a college student studying comput
 </table>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rageshx&theme=tokyonight" />
 </center>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rageshx1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 </p>
 
 # Check out my Spotify
