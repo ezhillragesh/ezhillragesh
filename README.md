@@ -37,7 +37,7 @@ Hi there! My name is Ragesh and I am currently a college student studying comput
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=[rageshx]"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rageshx"/>
 
 </td>
 </tr>
