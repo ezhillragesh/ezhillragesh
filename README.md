@@ -37,14 +37,16 @@ Hi there! My name is Ragesh and I am currently a college student studying comput
 <table>
 <tr>
 <td>
+<center>
 <img src="https://github-readme-stats.vercel.app/api?username=rageshx"/>
 
 </td>
 </tr>
 </table>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rageshx&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rageshx&theme=tokyonight" />
+</center>
 </p>
 
 # Check out my Spotify
