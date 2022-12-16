@@ -34,15 +34,11 @@ Hi there! My name is Ragesh and I am currently a college student studying comput
 
 ## 📈 Stats
 
-<table>
-<tr>
-<td>
+<p>
 <center>
 <img src="https://github-readme-stats.vercel.app/api?username=rageshx"/>
 
-</td>
-</tr>
-</table>
+
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rageshx&theme=tokyonight" />
 </center>
 </p>
@@ -53,5 +49,7 @@ Hi there! My name is Ragesh and I am currently a college student studying comput
 
 ## Random Joke 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
 
 
