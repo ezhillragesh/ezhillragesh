@@ -48,12 +48,8 @@ Hi there! My name is Ragesh and I am currently a college student studying comput
 </center>
 </p>
 
-# Check out my Spotify
 
-[![](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/312r2qrhiam3zaobrxqymbt6vlxa)
 
-## Random Joke 
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 
