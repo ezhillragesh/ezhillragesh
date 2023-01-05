@@ -8,9 +8,9 @@ Hi there! My name is Ragesh and I am currently a college student studying comput
 <a href="https://github.com/rageshx/"><img src="https://visitor-badge.laobi.icu/badge?page_id=rageshx/rageshx.github.io" alt="Number of Visitors"></a>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ezhillragesh)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ezhillragesh/)](https://www.linkedin.com/in/rageshx/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ezhillragesh/)](https://www.linkedin.com/in/ezhillragesh/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/ragesh.x/)](https://instagram.com/ragesh.x)
-[![Linktree Badge](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Rageshx)
+[![Linktree Badge](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/ezhillragesh)
 [![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14075313/ragesh)
 
 
