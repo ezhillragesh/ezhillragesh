@@ -1,15 +1,15 @@
 # Hello there, I am Ragesh! Great to see you here
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rageshx&label=Profile%20views&color=0e75b6&style=flat" alt="rageshx" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ezhillragesh&label=Profile%20views&color=0e75b6&style=flat" alt="ezhillragesh" /> </p>
 
 
 Hi there! My name is Ragesh and I am currently a college student studying computer science. In my free time, I enjoy coding and working on personal projects. I am always looking for new opportunities to learn and grow, so feel free to connect with me on GitHub.
 
 
-<a href="https://github.com/rageshx/"><img src="https://visitor-badge.laobi.icu/badge?page_id=rageshx/rageshx.github.io" alt="Number of Visitors"></a>
+<a href="https://github.com/rageshx/"><img src="https://visitor-badge.laobi.icu/badge?page_id=ezhillragesh/ezhillragesh.github.io" alt="Number of Visitors"></a>
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ezhillragesh)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rageshwise)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ezhillragesh/)](https://www.linkedin.com/in/ezhillragesh/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/ragesh.x/)](https://instagram.com/ragesh.x)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/rage5h/)](https://instagram.com/ragesh.x)
 [![Linktree Badge](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/ezhillragesh)
 [![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14075313/ragesh)
 
