@@ -40,8 +40,10 @@ Hi there! My name is Ragesh and I am currently a college student studying comput
 
 <p align ="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ezhillragesh"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezhillragesh&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ezhillragesh&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhillragesh"/>
 </p>
+
 
 
 
