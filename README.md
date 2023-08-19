@@ -14,14 +14,6 @@ Hi there! My name is Ragesh and I am currently a college student studying comput
 [![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14075313/ragesh)
 
 
-
-
-
-## Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/rag3shx/)
-[![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/rag3sh)
-
 # Tools and Technologies
 
 
