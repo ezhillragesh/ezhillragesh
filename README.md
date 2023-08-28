@@ -2,6 +2,10 @@
 
 
 I'm Ragesh, a relentless computer science student and a passionate web developer. My journey is centered around crafting digital experiences through code.
+<div>
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
+</div>
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Me-239120?style=for-the-badge&logo=dev.to&logoColor=white)](https://ragesh.me/)
 
