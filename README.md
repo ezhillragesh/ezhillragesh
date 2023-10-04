@@ -52,4 +52,4 @@ I'm Ragesh, a relentless computer science student and a passionate web developer
   <img src="https://github-readme-stats.vercel.app/api?username=ezhillragesh" alt="GitHub Stats">
 </p>
 
-<!-- https://vscode.dev/profile/github/6a8724caa7c823da87ec0bd122f54b97 --> vscode profile
+<!-- https://vscode.dev/profile/github/6a8724caa7c823da87ec0bd122f54b97              vscode profile    --> 
