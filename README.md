@@ -38,18 +38,9 @@ I'm Ragesh, a relentless computer science student and a passionate web developer
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
-## 📈 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhillragesh" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezhillragesh" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezhillragesh" alt="GitHub Stats">
-</p>
+<b>*GitHub Stats*:</b> \
+  <a href="https://github.com/ezhillragesh">
+  <img align="center"  width="100%" loading="lazy" src="github-metrics.svg" alt="Github Stats" />
+  </a>
 
 <!-- https://vscode.dev/profile/github/6a8724caa7c823da87ec0bd122f54b97              vscode profile    --> 
