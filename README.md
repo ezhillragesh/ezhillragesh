@@ -2,16 +2,25 @@
 
 
 I'm Ragesh, a relentless computer science student and a passionate web developer. My journey is centered around crafting digital experiences through code.
-<div>
-<img align="center" src="https://i.imgur.com/4ASafy0.png">
+<div style="display: flex; justify-content: flex-end;">
+    <a href="https://github.com/rageshx/"><img src="https://visitor-badge.laobi.icu/badge?page_id=ezhillragesh/ezhillragesh.github.io" alt="Number of Visitors"></a>
 </div>
 
+### About Me 
+  🎓 &nbsp;I'm currently studying Computer Science Engineering and Business Systems at Vellore Institute of Technology, Vellore.\
+  💡 &nbsp;Some technologies I enjoy working with include Javascript, Typescript, React,.\
+  🌱 &nbsp;I'm on track for learning more about Data Structures and Algorithm, Software Development, Systems Design.\
+  ✉️ &nbsp;Get in touch with me via email at ragesh@duck.com. 
+
+ <b> </b>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Me-239120?style=for-the-badge&logo=dev.to&logoColor=white)](https://ragesh.me/)
 
-<a href="https://github.com/rageshx/"><img src="https://visitor-badge.laobi.icu/badge?page_id=ezhillragesh/ezhillragesh.github.io" alt="Number of Visitors"></a>
+## GitHub Stats
+![Ragesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezhillragesh&show_icons=true&count_private=true&theme=dark)
 
-## Find Me Online
+
+#### Find Me Here
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rageshwise)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ezhillragesh/)](https://www.linkedin.com/in/ezhillragesh/)
@@ -19,7 +28,7 @@ I'm Ragesh, a relentless computer science student and a passionate web developer
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/ezhillragesh)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14075313/ragesh)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ezhillragesh)
-## Tools and Technologies
+#### Tools and Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -38,9 +47,5 @@ I'm Ragesh, a relentless computer science student and a passionate web developer
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
-<b>*GitHub Stats*:</b> \
-  <a href="https://github.com/ezhillragesh">
-  <img align="center"  width="100%" loading="lazy" src="github-metrics.svg" alt="Github Stats" />
-  </a>
 
 <!-- https://vscode.dev/profile/github/6a8724caa7c823da87ec0bd122f54b97              vscode profile    --> 
