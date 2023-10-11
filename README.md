@@ -17,8 +17,8 @@ I'm Ragesh, a relentless computer science student and a passionate web developer
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Me-239120?style=for-the-badge&logo=dev.to&logoColor=white)](https://ragesh.me/)
 
 ## GitHub Stats
-![Ragesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezhillragesh&show_icons=true&count_private=true&theme=dark)
-![Ragesh's Streak Stats](http://github-readme-streak-stats.herokuapp.com/?user=ezhillragesh&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=ezhillragesh&show_icons=true&count_private=true&theme=dark" width="400" height="200">
+<img src="http://github-readme-streak-stats.herokuapp.com/?user=ezhillragesh&theme=dark" width="400" height="200">
 
 
 
