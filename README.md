@@ -55,3 +55,4 @@ I'm Ragesh, a relentless computer science student and a passionate web developer
 
 
 <!-- https://vscode.dev/profile/github/6a8724caa7c823da87ec0bd122f54b97              vscode profile    --> 
+<!-- https://leetcard.jacoblin.cool/therealragesh?theme=dark&font=ABeeZee&ext=heatmap       add later -->
