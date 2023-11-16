@@ -49,7 +49,7 @@ I'm Ragesh, a relentless computer science student and a passionate web developer
 <div style="display: flex; flex-direction: row;">
     <img src="https://github-readme-stats.vercel.app/api?username=ezhillragesh&show_icons=true&count_private=true&theme=dark" style="width: 400px; height: 200px;">
     <img src="http://github-readme-streak-stats.herokuapp.com/?user=ezhillragesh&theme=dark" style="width: 400px; height: 200px;">
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezhillragesh&theme=merko&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" style="width: 800px; height: 200px;">
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezhillragesh&theme=merko&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" style="width: 800px; height: 400px;">
 </div>
 
 <!-- https://vscode.dev/profile/github/6a8724caa7c823da87ec0bd122f54b97              vscode profile    --> 
