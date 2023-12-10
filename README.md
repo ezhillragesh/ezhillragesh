@@ -8,7 +8,7 @@ I'm Ragesh, a relentless computer science student and a passionate web developer
 
 ### About Me 
   🎓 &nbsp;I'm currently studying Computer Science Engineering and Business Systems at Vellore Institute of Technology, Vellore.\
-  💡 &nbsp;Some technologies I enjoy working with include Javascript, Typescript, React,.\
+  💡 &nbsp;Some technologies I enjoy working with include Javascript, Typescript, React.\
   🌱 &nbsp;I'm on track for learning more about Data Structures and Algorithm, Software Development, Systems Design.\
   ✉️ &nbsp;Get in touch with me via email at ragesh@duck.com. 
 
