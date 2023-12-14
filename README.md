@@ -3,6 +3,7 @@
 
 I'm Ragesh, a relentless computer science student and a passionate web developer. My journey is centered around crafting digital experiences through code.
 <div style="display: flex; justify-content: flex-end;">
+    <a href="https://github.com/ezhillragesh/"><img src="https://img.shields.io/github/followers/ezhillragesh?color=blue" alt="no of follower for ezhill ragesh">
     <a href="https://github.com/ezhillragesh/"><img src="https://visitor-badge.laobi.icu/badge?page_id=ezhillragesh/ezhillragesh.github.io" alt="Number of Visitors for ezhill ragesh" ></a>
 </div>
 
