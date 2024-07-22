@@ -17,7 +17,7 @@ I'm Ragesh, a relentless computer science student and a passionate web developer
 
  <b> </b>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Me-239120?style=for-the-badge&logo=dev.to&logoColor=white)](https://ragesh.me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Me-239120?style=for-the-badge&logo=dev.to&logoColor=white)](https://ragesh.live/)
 
 
 #### Find Me Here
